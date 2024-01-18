@@ -1,7 +1,7 @@
 # shopping
 This repo is created regarding the assessment provided by Zennode. 
 
-Step 1 : Compile and run the main.java
+Step 1 : Compile and run the main.java <br>
 Step 2 : Fill all the details accordingly
 
 Example : <br>
