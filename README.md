@@ -4,7 +4,7 @@ This repo is created regarding the assessment provided by Zennode.
 Step 1 : Compile and run the main.java
 Step 2 : Fill all the details accordingly
 
-Example : 
+Example : <br>
 Quantity of Product A: 50 <br>
 Gift wrap? (true/false): true <br>
 Quantity of Product B: 50 <br>
